@@ -1,0 +1,92 @@
+COS-241: DATA STRUCTURES
+
+Module 1—Overview of Principles, Design, and Implementation
+
+
+
+OVERVIEW
+"Computer science is no more about computers than astronomy is about telescopes." 
+—E. W. Dijkstra
+
+In computer science, data structures are an important way of organizing information in a computer. Each data structure has unique properties that make it well suited to give a certain view of the data.
+
+During this course we will discuss and experiment with many ways to manipulate data in the structures that exist in the programming language C++.
+
+By working through these modules, you will learn how data structures are created inside a computer. You will find there is quite a difference between your mental picture of a data structure and the actual way a computer stores a data structure in memory. You will also discover that there are many different ways of creating the same data structure in a computer. These various approaches are trade-offs that programmers must consider when writing software.
+
+
+
+TOPICS
+Module 1 covers the following topics:
+
+The software life cycle
+Abstract data types (ADTs)
+Object-oriented programming
+Encapsulation, inheritance and polymorphism
+Composition
+Order of magnitude notation for evaluating algorithms 
+
+
+
+OBJECTIVES
+After successfully completing Module 1, you should be able to:
+
+MO1.1   Identify elements of the software life cycle. 
+
+MO1.2   Explain elements of program design such as stepwise refinement, top-down design, and verification.
+
+MO1.3   Discuss data abstraction, especially abstract data types and encapsulation.
+
+MO1.4   Apply the application, logical, and implementation perspectives to abstract and composite data types.
+
+MO1.5   Examine the use of order of magnitude (Big-O) notation in comparing algorithms.
+
+Course objectives covered in this module include CO1, CO2, CO3
+
+
+
+STUDY MATERIALS
+Textbook Readings
+Study Chapters 1 and 2 in Dale, Weems, and Richards, C++ Plus Data Structures.
+
+
+Web Resources
+Source Code for Data Structures and Algorithm Analysis in C++ (Second Edition)
+This page lists many sample programs in C++ for the textbook by Mark Allen Weiss, an excellent backup resource for you in this class. 
+Abstract Data Type (FOLDOC)
+This is a helpful page about the term ADT and its meaning from the Free On-Line Dictionary of Computing.
+Abstract Data Type (Wikipedia)
+Different from the previous listing, this URL gives a more detailed explanation of ADTs.
+
+
+
+ACTIVITIES
+Module 1 has four activities. Please consult the Course Calendar for the due dates.
+
+Introductions Forum
+In the Introductions Forum, start a discussion topic titled "Introductions/[Your Name]." In your posting, please address any of the following topics or anything about yourself that you would like to share with the class so that we can get to know you better:
+
+Your reasons for taking this course
+Your interest in data structures
+Your background in general
+Your experience with online learning
+Your expectations from this course
+
+Note: The Introductions Forum is not graded but required.
+
+Discussion Forum 1: The Nebulous Project
+In Discussion Forum 1, post your response to the following discussion topic. Reply to at least two classmates' responses by the date indicated in the Course Calendar.  
+
+Put yourself in the following situation. Your client describes a nebulous software project she or he wants you to code. How might you create a product that pleases your client while maintaining your sanity? Describe steps you can take. If you've experienced something like this in your work experience, please share it with your classmates. [MO1.1]
+
+Written Assignment 1
+Complete the following in C++ Plus Data Structures: 
+
+Explain the stages of the software life cycle. 
+Chapter 1 Exercises: Questions 1, 17, 25, 26, and 33 
+Chapter 2 Exercises: Questions 1, 2, 3, 23, 24, 32, and 33 
+
+[MO1.1, MO1.2, MO1.3, MO1.4, MO1.5]  
+
+Final Project
+Please go the the Final Project area of the course website to begin your final project. You will need to work on it throughout the semester in order to complete it.
